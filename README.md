@@ -22,3 +22,7 @@ _this a __paragraph__ done._
 __this a *paragraph* done.__
 
 **this a _paragraph_ done.**
+
+_this a **paragraph** done._
+
+*this a __paragraph__ done.*
