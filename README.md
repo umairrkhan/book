@@ -11,3 +11,4 @@ _Italic_
 ~Umair~ 
 ~~umair~~
 _this a **paragraph** done._
+*this a **paragraph** done.*
