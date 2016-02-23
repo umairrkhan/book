@@ -10,5 +10,7 @@ _Italic_
 ~~umair~~
 ~Umair~ 
 ~~umair~~
+
 _this a **paragraph** done._
-*this a **paragraph** done.*
+
+*this a __paragraph__ done.*
