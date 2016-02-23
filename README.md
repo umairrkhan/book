@@ -10,4 +10,4 @@ _Italic_
 ~~umair~~
 ~Umair~ 
 ~~umair~~
-_this a __paragraph__ done._
+_this a **paragraph** done._
