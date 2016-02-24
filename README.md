@@ -27,4 +27,61 @@ _this a **paragraph** done._
 
 > this is quote
 
-*this a __paragraph__ done.*
+/*this a __paragraph__ done.*
+
+
+- umair - umair
+* Asim
+    - amirr
+        1. amee
+        2. amee
+    * amirr
+        - amee
+              A. patr1
+              B. patr2
+        * amee
+            1. amee
+            2.  amee
+- amir
+* sham 
+
+1 umair
+2 umair
+
+1. amee
+2. amee
+
+a. arif
+b. arif
+
+- [x] chool
+- [X] bhool
+- [ ] chool
+- [] vhool
+
+
+this is :+1: chool.
+
+ohohhhooo.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
