@@ -9,6 +9,9 @@ __BOLD__
 _Italic_ 
 ~~umair~~
 ~Umair~ 
+*this a **paragraph** done.*
+
+__this a *paragraph* done.__
 ~~umair~~
 
 __this a _paragraph_ done.__
@@ -17,12 +20,11 @@ __this a _paragraph_ done.__
 
 _this a __paragraph__ done._
 
-*this a **paragraph** done.*
-
-__this a *paragraph* done.__
 
 **this a _paragraph_ done.**
 
 _this a **paragraph** done._
+
+> this is quote
 
 *this a __paragraph__ done.*
